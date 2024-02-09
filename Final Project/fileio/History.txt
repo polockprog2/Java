@@ -1,0 +1,2 @@
+Added :  $12  in Product ID  1231  in Shop ID  1211
+Added :  $123  in Product ID  1234  in Shop ID  12345
